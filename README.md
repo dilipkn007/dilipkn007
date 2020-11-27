@@ -35,7 +35,7 @@ My interests will be increasing but don't change.
 
 ---
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dilipkn007)](https://github.com/seema1711/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dilipkn007)](# "My portfolio website")
 
 ---
 ---
