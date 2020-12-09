@@ -35,9 +35,9 @@ My interests will be increasing but don't change.
 
 ---
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dilipkn007&show_icons=true&title_color=fff&icon_color=007ACC&text_color=9f9f9f&bg_color=151515)](# "My portfolio website")
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dilipkn007&show_icons=true&title_color=fff&icon_color=007ACC&text_color=9f9f9f&bg_color=0D1117)](# "My portfolio website")
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilipkn007&repo=first-contributions&title_color=fff&icon_color=007ACC&text_color=9f9f9f&bg_color=151515)](https://github.com/dilipkn007/first-contributions)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilipkn007&repo=first-contributions&title_color=fff&icon_color=007ACC&text_color=9f9f9f&bg_color=0D1117)](https://github.com/dilipkn007/first-contributions)
 
 ---
 ---
