@@ -25,7 +25,7 @@ I am pursuing a Bachelor of Engineering - BE in Computer and Information Science
 
 ## Some of my interests
 
-- Full Stsck web development
+- Full Stack web development
 - Flutter 
 - AI
 - ML
