@@ -7,14 +7,9 @@ I am pursuing a Bachelor of Engineering - BE in Computer and Information Science
 
 ## My Skills, Endorsements, Tools and Technologies
  
- - Solid Edge
- - Microsoft excel
- - Microsoft word
- - Microsoft PowerPoint
- - C (Programming Language) 
- - C++
+ - C/C++ (Programming Language) 
  - HTML5
- - Cascading Style Sheets (CSS)
+ - CSS
  - JavaScript
  - Python
  - Blender
