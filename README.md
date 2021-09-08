@@ -1,7 +1,7 @@
 # Hi, there 👋  My name is Dilip
 ---
 
-I am pursuing a Bachelor of Engineering - BE in Computer and Information Sciences Engineering 3rd semester at Cambridge Institute of Technology, Bengaluru.
+I am pursuing a Bachelor of Engineering - BE in Computer and Information Sciences Engineering 5th semester at Cambridge Institute of Technology, Bengaluru.
 
 ---
 
