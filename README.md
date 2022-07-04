@@ -28,6 +28,7 @@ I am pursuing a Bachelor of Engineering - BE in Computer and Information Science
 
 My interests will be increasing but don't change.
 
+[My profile](https://drive.google.com/file/d/1aOBI7UBez_rliWWKjd-GBsV23BBX0Uxc/view?usp=drivesdk)
 ---
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dilipkn007&show_icons=true&title_color=fff&icon_color=007ACC&text_color=9f9f9f&bg_color=0D1117)](# "My portfolio website")
